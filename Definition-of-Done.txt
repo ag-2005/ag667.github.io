@@ -1,0 +1,5 @@
+1. Supervisor approves the code
+2. All testing completed succesfully
+3. No bugs/errors
+4. Feedback implemented
+5. Code is documented and readable
