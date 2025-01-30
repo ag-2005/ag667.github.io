@@ -1,5 +1,5 @@
-1. Supervisor approves the code
+1. All acceptance criteria in the user story are met
 2. All testing completed succesfully
-3. No bugs/errors
-4. Feedback implemented
-5. Code is documented and readable
+3. No known bugs/defects
+4. code review is passed
+5. Project code is documented
